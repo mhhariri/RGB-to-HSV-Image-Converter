@@ -1,0 +1,2 @@
+# RGB-to-HSV-Image-Converter
+Converts images from RGB to HSV color space in batch mode using OpenCV. Processes all images in an input folder and saves transformed images with original filenames in an output folder.
